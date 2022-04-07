@@ -2,7 +2,7 @@
 ## Performing analysis on Kickstarter data to uncover trends
 
 ### Purpose
-The purpose of this analysis was to understand how different campaigns fared in relation to their launch dates and their funding goals.
+Louise's play *Fever* reached its fundraising goal in a short amount of time, which served as the basis for this final challenge. This analysis allows us to help Louise understand how different campaigns fared in relation to their launch dates and their funding goals. 
 
 ## Analysis and Challenges
 
